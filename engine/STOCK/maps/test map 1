@@ -1,0 +1,11 @@
+out of map color;0,0,0
+in map color;255,255,255
+spawn x;20
+spawn y;20
+wall length;6
+wall;2,2,20,0.5,0,0,0
+wall;3,2,20,0.5
+wall;4,2,20,0.5
+wall;6,6,100,0.5
+wall;20,20,20,1
+
